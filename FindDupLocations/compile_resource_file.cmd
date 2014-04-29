@@ -1,0 +1,1 @@
+pyrcc4 findduplocations_resources.qrc -o findduplocations_resources.py
